@@ -1,0 +1,65 @@
+\documentclass[a4paper,12pt]{report}%define a classe do documento, um artigo.
+\usepackage{indentfirst}
+\usepackage[ Listing]{algorithm}	
+\usepackage{algorithmic}		
+%\usepackage{multirow}
+\usepackage{dsfont}
+\usepackage{graphicx,indentfirst,amsmath,amsfonts,amssymb,amsthm,newlfont}
+\usepackage{rotating}
+\usepackage{morefloats}
+\usepackage{lscape}
+\usepackage{amsmath}
+\usepackage{listings}
+%config link colors
+\usepackage{hyperref}
+\usepackage{multirow}
+\hypersetup{
+				colorlinks=true,
+				bookmarks=false,
+				pdfnewwindow=true,             
+				linkcolor=blue,          
+				citecolor=blue,        
+				filecolor=blue,      
+				urlcolor=blue
+			}
+\usepackage{amsfonts}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{subfigure}
+%\usepackage[latin1]{inputenc}            
+%\usepackage[brazil]{varioref}             
+%\usepackage[brazilian,portuguese]{babel}
+\usepackage{setspace}			
+
+\usepackage[Rejne]{fncychap}			
+			
+\title{Panca Game Maker -- DOC}
+
+\author{Diogo Fernando Trevisan}
+
+\date{}
+
+\begin{document}
+
+	\begin{titlepage}
+		\maketitle
+	\end{titlepage}
+	
+	
+	\section{eqs}
+	
+	$\frac{\partial E(n)}{\partial W_{kj}(n)}$
+	
+	\include{tileset}
+	\include{graphics}
+	\include{background}
+	\include{scenary}
+	
+	\include{scenaryCollisibleObject}
+	\include{gameItem}
+	\include{action}
+	\include{joypad}
+	\include{character}
+	\include{physics}
+	\include{gamemanager}
+\end{document}

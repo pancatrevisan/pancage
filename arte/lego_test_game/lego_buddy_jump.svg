@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg9882"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="New document 66">
+  <defs
+     id="defs9884">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7039"
+       id="radialGradient7121"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.69380239,-84.285714,-9.8948244)"
+       cx="185.60971"
+       cy="438.90247"
+       fx="185.60971"
+       fy="438.90247"
+       r="40.910912" />
+    <linearGradient
+       id="linearGradient7039">
+      <stop
+         style="stop-color:#ffa200;stop-opacity:1;"
+         offset="0"
+         id="stop7041" />
+      <stop
+         style="stop-color:#eb7b2e;stop-opacity:1;"
+         offset="1"
+         id="stop7043" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7067"
+       id="radialGradient7073"
+       cx="169.38147"
+       cy="567.4588"
+       fx="169.38147"
+       fy="567.4588"
+       r="31.461798"
+       gradientTransform="matrix(0.70028059,0.7138677,-1.3446092,1.3190172,965.30539,-203.86507)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7067">
+      <stop
+         style="stop-color:#0000a4;stop-opacity:1;"
+         offset="0"
+         id="stop7069" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop7071" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7039"
+       id="radialGradient7053"
+       cx="165.19046"
+       cy="451.73822"
+       fx="165.19046"
+       fy="451.73822"
+       r="31.40451"
+       gradientTransform="matrix(1,0,0,1.5877756,174.52984,-157.866)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient9849">
+      <stop
+         style="stop-color:#ffa200;stop-opacity:1;"
+         offset="0"
+         id="stop9851" />
+      <stop
+         style="stop-color:#eb7b2e;stop-opacity:1;"
+         offset="1"
+         id="stop9853" />
+    </linearGradient>
+    <radialGradient
+       r="40.910912"
+       fy="438.90247"
+       fx="185.60971"
+       cy="438.90247"
+       cx="185.60971"
+       gradientTransform="matrix(1,0,0,0.69380239,-84.285714,-9.8948244)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient9473"
+       xlink:href="#linearGradient7039-28"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient7039-28">
+      <stop
+         style="stop-color:#ffa200;stop-opacity:1;"
+         offset="0"
+         id="stop7041-8" />
+      <stop
+         style="stop-color:#eb7b2e;stop-opacity:1;"
+         offset="1"
+         id="stop7043-1" />
+    </linearGradient>
+    <radialGradient
+       r="40.910912"
+       fy="438.90247"
+       fx="185.60971"
+       cy="438.90247"
+       cx="185.60971"
+       gradientTransform="matrix(1,0,0,0.69380239,-84.285714,-9.8948244)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient9880"
+       xlink:href="#linearGradient7039-28"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7067-2"
+       id="radialGradient7073-9"
+       cx="169.38147"
+       cy="567.4588"
+       fx="169.38147"
+       fy="567.4588"
+       r="31.461798"
+       gradientTransform="matrix(0.82589975,0.563817,-1.0619804,1.5556278,788.48862,-308.68838)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7067-2">
+      <stop
+         style="stop-color:#0000a4;stop-opacity:1;"
+         offset="0"
+         id="stop7069-1" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop7071-3" />
+    </linearGradient>
+    <radialGradient
+       r="31.461798"
+       fy="567.4588"
+       fx="169.38147"
+       cy="567.4588"
+       cx="169.38147"
+       gradientTransform="matrix(0.62062726,-0.78410574,1.4769065,1.1689857,-574.01804,132.5947)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient9986"
+       xlink:href="#linearGradient7067-2"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7039-3"
+       id="radialGradient7121-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.69380239,-84.285714,-9.8948244)"
+       cx="185.60971"
+       cy="438.90247"
+       fx="185.60971"
+       fy="438.90247"
+       r="40.910912" />
+    <linearGradient
+       id="linearGradient7039-3">
+      <stop
+         style="stop-color:#ffa200;stop-opacity:1;"
+         offset="0"
+         id="stop7041-3" />
+      <stop
+         style="stop-color:#eb7b2e;stop-opacity:1;"
+         offset="1"
+         id="stop7043-0" />
+    </linearGradient>
+    <radialGradient
+       r="40.910912"
+       fy="438.90247"
+       fx="185.60971"
+       cy="438.90247"
+       cx="185.60971"
+       gradientTransform="matrix(1,0,0,0.69380239,-84.285714,-9.8948244)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient10025"
+       xlink:href="#linearGradient7039-3"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="469.50087"
+     inkscape:cy="450.42378"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9887">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="g7114-5"
+       inkscape:transform-center-x="-36.834013"
+       inkscape:transform-center-y="22.86993"
+       transform="matrix(0.93472507,0.35537169,-0.35537169,0.93472507,367.31253,240.64089)"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g6358-4"
+         transform="translate(-92.949167,-214.59671)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6324-5"
+           d="m 244.0413,497.52966 c -3.1642,11.20656 -6.32841,22.41311 -9.49261,33.61967 11.48835,2.66567 27.69175,15.65834 37.04027,3.59665 3.72513,-7.01426 4.20346,-15.41115 6.56159,-23.00708 5.0647,-8.35772 -4.69588,-9.98132 -11.13186,-12.19794 -7.32565,-2.17413 -15.42796,-4.27328 -22.97739,-2.0113 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6328-1"
+           d="m 233.36211,508.9999 c 7.50323,-2.33572 13.12804,2.90734 10.80733,11.01405 1.8279,6.07576 -11.3412,12.78433 -12.23053,7.30966 0.4744,-6.1079 0.9488,-12.21581 1.4232,-18.32371 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6326-2"
+           d="m 243.84354,531.74262 c 7.06824,-0.86217 13.91367,3.36158 20.96286,4.35078 7.16639,-2.2415 8.94452,-4.60279 1.62762,-1.76081 -8.36279,-0.36239 -16.78588,-5.5207 -25.51697,-4.76346 -13.09892,-0.0189 6.09903,8.42412 11.03476,8.5019 4.29814,3.11966 18.8568,1.96221 15.16063,0.0943 -6.98197,0.9252 -19.53801,-0.52585 -23.2689,-6.42266 z"
+           style="fill:#9d8200;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path6320-8"
+         d="m 92.231746,270.67475 c 8.764614,3.56652 12.104564,16.00709 21.026724,17.63895 9.49215,0.83264 18.98429,1.66529 28.47644,2.49793 0,9.50908 0,19.01816 0,28.52724 -14.22564,0.89861 -28.41034,3.38513 -42.665314,3.14583 -8.96955,-2.64727 -16.58645,-9.73907 -24.3592,-15.02541 -8.34143,-6.22254 -17.82019,-16.80797 -12.00315,-27.81149 3.96888,-11.07512 17.87272,-16.87065 27.91849,-9.86 l 1.60601,0.88695 0,0 z"
+         style="fill:url(#radialGradient10025);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:url(#radialGradient9986);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;display:inline"
+       d="m 321.3994,628.90143 c -10.91605,12.18857 -6.85278,33.23661 7.01204,41.08571 22.65895,17.87293 45.31336,35.70551 67.96044,53.48028 12.66764,-16.07514 25.33521,-32.15035 38.00289,-48.22548 -8.3328,-6.54181 -16.66572,-13.08345 -24.99852,-19.62523 -4.00599,5.08361 -8.01198,10.1672 -12.01799,15.25081 -9.22081,-7.26617 -18.44157,-14.53241 -27.66237,-21.79862 2.40113,-18.1199 -16.63817,-34.59288 -34.25338,-29.11823 -5.46125,1.42925 -10.44697,4.59687 -14.04309,8.95078 z"
+       id="path6270-3"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="27.937009"
+       inkscape:transform-center-x="-30.870409"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline"
+       id="g7114-9"
+       inkscape:transform-center-x="4.2629721"
+       inkscape:transform-center-y="40.176898"
+       transform="matrix(0.21511451,0.97658883,-0.97658883,0.21511451,605.16539,396.20123)"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g6358-8"
+         transform="translate(-92.949167,-214.59671)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6324-1"
+           d="m 244.0413,497.52966 c -3.1642,11.20656 -6.32841,22.41311 -9.49261,33.61967 11.48835,2.66567 27.69175,15.65834 37.04027,3.59665 3.72513,-7.01426 4.20346,-15.41115 6.56159,-23.00708 5.0647,-8.35772 -4.69588,-9.98132 -11.13186,-12.19794 -7.32565,-2.17413 -15.42796,-4.27328 -22.97739,-2.0113 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6328-3"
+           d="m 233.36211,508.9999 c 7.50323,-2.33572 13.12804,2.90734 10.80733,11.01405 1.8279,6.07576 -11.3412,12.78433 -12.23053,7.30966 0.4744,-6.1079 0.9488,-12.21581 1.4232,-18.32371 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6326-3"
+           d="m 243.84354,531.74262 c 7.06824,-0.86217 13.91367,3.36158 20.96286,4.35078 7.16639,-2.2415 8.94452,-4.60279 1.62762,-1.76081 -8.36279,-0.36239 -16.78588,-5.5207 -25.51697,-4.76346 -13.09892,-0.0189 6.09903,8.42412 11.03476,8.5019 4.29814,3.11966 18.8568,1.96221 15.16063,0.0943 -6.98197,0.9252 -19.53801,-0.52585 -23.2689,-6.42266 z"
+           style="fill:#9d8200;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path6320-4"
+         d="m 92.231746,270.67475 c 8.764614,3.56652 12.104564,16.00709 21.026724,17.63895 9.49215,0.83264 18.98429,1.66529 28.47644,2.49793 0,9.50908 0,19.01816 0,28.52724 -14.22564,0.89861 -28.41034,3.38513 -42.665314,3.14583 -8.96955,-2.64727 -16.58645,-9.73907 -24.3592,-15.02541 -8.34143,-6.22254 -17.82019,-16.80797 -12.00315,-27.81149 3.96888,-11.07512 17.87272,-16.87065 27.91849,-9.86 l 1.60601,0.88695 0,0 z"
+         style="fill:url(#radialGradient9880);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ceab00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 315.24841,500.8002 c 16.6875,0 33.37501,0 50.06251,0 -1.01965,3.2485 2.49993,11.03624 -2.73603,10.06844 -15.77549,0 -31.55099,0 -47.32648,0 0,-3.35615 0,-6.7123 0,-10.06844 z"
+       id="rect6334"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#radialGradient7053);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 308.81579,510.02963 c 20.60301,0 41.20601,0 61.80902,0 0,32.90889 0,65.81776 0,98.72664 -20.60301,0 -41.20601,0 -61.80902,0 0,-32.90888 0,-65.81775 0,-98.72664 z"
+       id="rect6318"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.62595665px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 309.71142,609.91348 c 0.0321,5.51623 0.0642,11.03246 0.0963,16.54869 5.86145,-0.0958 11.7229,-0.19167 17.58435,-0.28751 0.008,8.69129 0.0167,17.38259 0.0251,26.07388 1.53249,10.44181 14.53389,25.23156 22.10476,10.63183 6.04422,-7.51907 3.83789,-17.17196 4.62743,-26.02152 0.61615,-3.60303 -0.70452,-9.24609 1.03651,-11.6643 4.85309,0.10539 9.70618,0.21078 14.55927,0.31617 0.0192,-5.11157 0.0385,-10.22315 0.0577,-15.33472 -20.03047,-0.0875 -40.06095,-0.17501 -60.09142,-0.26252 z"
+       id="path6253"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#radialGradient7073);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;display:inline"
+       d="m 360.8521,622.40908 c -10.72679,-12.35546 -32.11785,-10.95796 -41.64023,1.81568 -20.56786,20.24433 -41.09512,40.4892 -61.56411,60.73403 14.36363,14.57963 28.72733,29.15919 43.09095,43.73885 7.53311,-7.4487 15.06606,-14.89753 22.59915,-22.34623 -4.54237,-4.61064 -9.08471,-9.22127 -13.62708,-13.83193 8.36291,-8.23908 16.72587,-16.47811 25.0888,-24.71717 17.67702,4.64967 36.40299,-12.17863 33.17564,-30.34046 -0.73463,-5.59716 -3.25346,-10.94007 -7.12315,-15.05276 z"
+       id="path6270"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="28.342793"
+       inkscape:transform-center-x="30.818695"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline"
+       id="g7114"
+       inkscape:transform-center-x="28.520452"
+       inkscape:transform-center-y="32.860583"
+       transform="matrix(-0.51251766,0.85867668,-0.85867668,-0.51251766,631.20258,615.31887)"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g6358"
+         transform="translate(-92.949167,-214.59671)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6324"
+           d="m 244.0413,497.52966 c -3.1642,11.20656 -6.32841,22.41311 -9.49261,33.61967 11.48835,2.66567 27.69175,15.65834 37.04027,3.59665 3.72513,-7.01426 4.20346,-15.41115 6.56159,-23.00708 5.0647,-8.35772 -4.69588,-9.98132 -11.13186,-12.19794 -7.32565,-2.17413 -15.42796,-4.27328 -22.97739,-2.0113 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6328"
+           d="m 233.36211,508.9999 c 7.50323,-2.33572 13.12804,2.90734 10.80733,11.01405 1.8279,6.07576 -11.3412,12.78433 -12.23053,7.30966 0.4744,-6.1079 0.9488,-12.21581 1.4232,-18.32371 z"
+           style="fill:#ffd400;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6326"
+           d="m 243.84354,531.74262 c 7.06824,-0.86217 13.91367,3.36158 20.96286,4.35078 7.16639,-2.2415 8.94452,-4.60279 1.62762,-1.76081 -8.36279,-0.36239 -16.78588,-5.5207 -25.51697,-4.76346 -13.09892,-0.0189 6.09903,8.42412 11.03476,8.5019 4.29814,3.11966 18.8568,1.96221 15.16063,0.0943 -6.98197,0.9252 -19.53801,-0.52585 -23.2689,-6.42266 z"
+           style="fill:#9d8200;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path6320"
+         d="m 92.231746,270.67475 c 8.764614,3.56652 12.104564,16.00709 21.026724,17.63895 9.49215,0.83264 18.98429,1.66529 28.47644,2.49793 0,9.50908 0,19.01816 0,28.52724 -14.22564,0.89861 -28.41034,3.38513 -42.665314,3.14583 -8.96955,-2.64727 -16.58645,-9.73907 -24.3592,-15.02541 -8.34143,-6.22254 -17.82019,-16.80797 -12.00315,-27.81149 3.96888,-11.07512 17.87272,-16.87065 27.91849,-9.86 l 1.60601,0.88695 0,0 z"
+         style="fill:url(#radialGradient7121);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffd400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;display:inline"
+       d="m 325.87621,425.00725 c 10.23066,0.21209 20.54617,-0.42891 30.72259,0.32867 4.35801,3.57892 2.20367,10.49096 2.23052,15.57095 -3.35796,4.52169 -9.90522,1.82434 -14.81063,2.55919 -6.58366,-0.2017 -13.24871,0.41498 -19.77847,-0.32866 -4.35802,-3.57892 -2.20368,-10.49098 -2.23053,-15.57096 0.6222,-1.52615 2.21557,-2.58561 3.86652,-2.55919 z"
+       id="rect6332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffd400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;display:inline"
+       d="m 318.19136,437.31307 c 15.6355,0.20205 31.32268,-0.41609 46.92398,0.33138 9.68044,1.62932 14.30232,11.8634 13.06082,20.82419 -0.37647,10.73263 0.82123,21.62259 -0.73344,32.24004 -2.48224,9.22765 -12.51441,12.5208 -21.10613,11.48989 -13.81172,-0.19788 -27.67431,0.41029 -41.45192,-0.33138 -9.68044,-1.62932 -14.30232,-11.8634 -13.06082,-20.82419 0.37647,-10.73263 -0.82123,-21.62258 0.73344,-32.24003 1.98209,-6.71627 8.63036,-11.60471 15.63407,-11.4899 z"
+       id="rect6330"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       d="m 375.9416,463.28941 c 1.81047,8.62036 -6.73313,12.21189 -5.74795,1.24323 -1.08862,-7.61412 5.2895,-14.70903 5.73192,-1.7232"
+       id="path6370"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 377.2588,455.00478 c -2.98852,-6.01162 -8.0789,-10.66142 -13.62132,-3.40533"
+       id="path6372"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 378.04464,482.24741 c -4.11832,1.14027 -8.4586,0.11343 -11.52573,-2.88143"
+       id="path6374"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\sprite\jum_right\1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

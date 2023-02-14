@@ -1,0 +1,43 @@
+\BOOKMARK [1][-]{section.0.1}{eqs}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Tileset}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Tile}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Tileset}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{File Format}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Graphics}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Sprite}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{Drawing the Sprite}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{Sprite Coordinate System}{section.2.1}% 10
+\BOOKMARK [1][-]{section.2.2}{Window \046 Drawing}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Rendering}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Background}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{Background Layer}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{File Format}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Scenary}{}% 17
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{The Scenary}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{File Format}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{ScenaryCollidibleObject}{}% 21
+\BOOKMARK [1][-]{section.5.1}{Major Subclasses}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{Properties}{chapter.5}% 23
+\BOOKMARK [0][-]{chapter.6}{GameItem}{}% 24
+\BOOKMARK [0][-]{chapter.7}{Action}{}% 25
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 26
+\BOOKMARK [1][-]{section.7.2}{File Format}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.3}{Class Members}{chapter.7}% 28
+\BOOKMARK [1][-]{section.7.4}{Creating Your Own Action}{chapter.7}% 29
+\BOOKMARK [0][-]{chapter.8}{Joypad}{}% 30
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 31
+\BOOKMARK [1][-]{section.8.2}{Buttons}{chapter.8}% 32
+\BOOKMARK [1][-]{section.8.3}{Attributes}{chapter.8}% 33
+\BOOKMARK [1][-]{section.8.4}{Joypad Templates}{chapter.8}% 34
+\BOOKMARK [0][-]{chapter.9}{Character}{}% 35
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 36
+\BOOKMARK [1][-]{section.9.2}{File Format}{chapter.9}% 37
+\BOOKMARK [1][-]{section.9.3}{Collision Types}{chapter.9}% 38
+\BOOKMARK [1][-]{section.9.4}{The Update Method}{chapter.9}% 39
+\BOOKMARK [0][-]{chapter.10}{Physics}{}% 40
+\BOOKMARK [1][-]{section.10.1}{Collision Box}{chapter.10}% 41
+\BOOKMARK [1][-]{section.10.2}{Game Manager}{chapter.10}% 42
+\BOOKMARK [1][-]{section.10.3}{File Format}{chapter.10}% 43

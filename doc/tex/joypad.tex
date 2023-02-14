@@ -1,0 +1,45 @@
+\chapter{Joypad}
+	\section{Introduction}
+		The Joypad class acts just like an joypad. It have some buton variables thar can be active or inactive. The character used this states to update.
+		
+		All buttons have public access to simplify.
+		
+		When a key is typed, the event handler (java.awt.event.KeyListener) verifies the key and store the status in ``Hashtable$<$Integer, Integer$>$ buttonStates''. If the state is BUTTON\_TYPED the action \textbf{must} set it to BUTTON\_OFF in it's update method. Just use the ``Action.cleanInput'' method in the ``Action.update'' after doing the update.
+		
+		
+		The Joypad.buttonBuffer is a buffer with buttons in the order that are pressed (or  threated).
+	\section{Buttons}
+		The buttons have 3 possible states:
+		\begin{itemize}
+			\item \textbf{public static final int BUTTON\_OFF = 0}: the button is released.
+			\item \textbf{public static final int BUTTON\_TYPED = 1}: the button was typed (pressed one time and released).
+			\item \textbf{public static final int BUTTON\_HOLD = 2}: the button was pressed and hold.
+		\end{itemize}
+		If the button status = \textbf{BUTTON\_TYPED} the character \emph{update} method must set it to \textbf{BUTTON\_OFF} after the use.
+		
+	\section{Attributes}
+	
+	\paragraph{Hashtable$<$String, Integer$>$ buttonCodes: } The name of buttons of controller, and the key code associated with it. The Action uses this map to update it state. For example: `` `BUTTON\_UP',67'', will map the button up to the key of asc CODE 67. 
+	
+	The Joypad can have as many buttons as the user need, but the button names must be accordling to the Action.necessaryButtons. For example, Action x have $necessaryButtons = [``BUTTON\_UP'', ``BUTTON\_X'']$ then the Joypad.buttonCodes must have the key maps for ``BUTTON\_UP'' and ``BUTTON\_X''.
+	
+	
+	
+	\section{Joypad Templates}
+	Template creates a Joypad with some buttons.
+	
+	\begin{table}[H]
+    \caption{Possible collisions with the scenary.}
+    \label{tab:scenaryCollisionTypes}
+    \centering
+	
+    \begin{tabular}{|l|p{5cm}|}
+		\hline
+		\textbf{Template} 				& \textbf{Buttons} \\
+		\hline
+		TEMPLATE\_JOYPAD\_10\_BUTTONS 	&  UP,  DOWN, LEFT,  RIGHT,  PAUSE,  A,  B,  C,  D, SPECIAL \\
+		\hline
+	\end{tabular}
+	\end{table}
+	
+	

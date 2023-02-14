@@ -1,0 +1,83 @@
+\section{BaseObject}
+	This is the base class for all objects in the game. 
+	
+	This class has a position attribute, a reference to the map it is, and other attributes. A important attribute is the Animation currentAnimation.
+
+\section{Animation}
+	The animation is an sprite sequence. Each Animation is composed by Sprites and the order the Sprites are shown (\textit{animOrder}).
+		
+	The animation can loop. The Animation Editor is used to create the Animations. The animations are saved in the disk and can be loaded in the one BaseObject subclass.
+	
+	\subsection{File Format}
+\begin{lstlisting}[caption={File format},label={animfileformat},language=Java]
+dos.writeInt(a.spriteNumber);
+dos.writeBoolean(a.loop);
+dos.writeBoolean(a.loopSFX);
+DataReaderWriter.writeString(a.getSFX().getName(), dos);
+dos.writeInt(a.spriteOrder.length);
+for(int i=0; i < a.spriteOrder.length; i++)
+	dos.writeInt(a.spriteOrder[i]);
+for(Sprite s:a.sprites)
+{
+	s.save(dos);
+}
+dos.close();
+\end{lstlisting}
+	
+	
+	
+\section{Sprite}
+	An sprite is composed by one image, an exibition \textit{time}, a scenary Collision Box and two sets of Collision Boxes: attackCollisionBox and vulnerableCollisionBox.
+	Each Sprite is shown by a time.
+
+		\subsection{File format}
+		String imageName
+		double time
+		int numatkBoxes
+		for each box	
+			write box
+		int numvulnboxes
+		for each box
+			write box
+		write scenaryCollisionBox
+		
+\section{Collision box}
+
+			\subsection{File format}
+			double  imageReferenceX, imageReferenceY
+			double distanceFromP.x, distanceFromP.y
+			double uppRight.x, uppRight.y
+			double lowLeft.x, lowLeft.y
+	
+\section{Configuration}
+	The class core.Config contains configurations about paths and collision.
+	
+\section{Resources}
+	All resources will be placed inside a directory. This directory is defined in the Configuration class. 
+	
+	Objects (subclasses of BaseObject): the Map Editor will be able to load classes, verify if is subclass of BaseObject and save the objects inside the object directory. 
+	
+\section{Map}
+	A map is a collection of Tile references. The Map can be created using the internal editor. This editor saves a map file wich can be loaded. To create a map it is necessary a Tileset. The Tileset is created in the same editor (visualeditors.mapeditor.MapEditor). This editor allows to create the map layers, background and to place objects in the map.
+	
+	The map has a collection of Objects. Objects can be enemies, power up and the player character. To insert enemies, first the enemy must be created (create animations, create source code) and the Map editor allows to position enemies in the map.
+	
+	Every map must have an initial position for the player. The visual editor allows to set this position.
+\section{Background Layer	}
+\subsection{File format}
+\begin{lstlisting}[caption={File format},label={animfileformat},language=Java]
+if(layerType == TYPE_COLOR)
+{
+	dos.writeInt(color.getRGB());
+}
+else if(layerType == TYPE_IMAGE)
+{
+	DataReaderWriter.writeString(imageName, dos);
+	dos.writeBoolean(tileFromCamX);
+	dos.writeBoolean(tileFromCamY);
+	dos.writeBoolean(fillWindow);
+	dos.writeBoolean(moveLayer);
+	dos.writeDouble(moveSpeed.x);
+	dos.writeDouble(moveSpeed.y);
+}
+\end{lstlisting}

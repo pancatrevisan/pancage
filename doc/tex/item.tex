@@ -1,0 +1,42 @@
+\chapter{Item}
+
+	Have an Action inheritated from ScenaryCollidibleObject (actualAction).
+	
+	Can use Right or left sprites. Extends the superclass ScenaryCollidibleObject wich have the render and the collision check methods.
+	
+	
+	
+	\section{File Format}
+	  
+	  \begin{algorithm}[H]
+	      \caption{Action File Format.}
+	      \label{algoEvalCuda}
+	      \begin{algorithmic}
+		  \STATE [int] class\_name\_size
+		  \STATE [byte] class\_name\_string
+		  \STATE [int]$SPRITESET\_NAME\_LENGHT$
+		  \STATE [byte*]$SPRITESET\_NAME$
+		  \STATE [int]$NUMBER\_OF\_LEFT\_SPRITES$
+		  \FOR{Each Left Sprite}
+		      \STATE [double]$DISPLAY\_TIME$
+		      \STATE [int] $WIDTH$
+		      \STATE [int] $HEIGHT$
+			  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_x$
+			  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_y$
+			  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_x$
+			  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_y$
+		      \STATE [int*] $PIXELS\_OF\_IMAGE$
+		  \ENDFOR
+		  \STATE [int]$NUMBER\_OF\_RIGHT\_SPRITES$
+		  \FOR{Each Sprite}
+		      \STATE [double]$DISPLAY\_TIME$
+		      \STATE [int] $WIDTH$
+		      \STATE [int] $HEIGHT$
+			  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_x$
+			  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_y$
+			  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_x$
+			  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_y$
+		      \STATE [int*] $PIXELS\_OF\_IMAGE$
+		  \ENDFOR
+		  \end{algorithmic}
+	  \end{algorithm}

@@ -1,0 +1,35 @@
+\chapter{ScenaryCollidibleObject}
+	Is the most important class. It defines collisions with the scenary, with another objects, enemies etc.
+	
+	\section{Major Subclasses}
+		\begin{itemize}
+			\item \textbf{PlayableCharacter} A class to define implementations of the game character.
+			\item \textbf{Enemy} A class to define implementations of the enemies.
+			\item \textbf{Item} A class to implement items used in the game.
+		\end{itemize}
+		
+	
+	\section{Properties}
+	\textbf{boolean attack:} check this object attack boxes? If this object can attack others, this must be true.
+	
+	\textbf{boolean receiveAttak:} This object can receive attacks? if yes, this must be true.
+	
+	\textbf{boolean checkScenaryCollisionBoxes:} This object collides with another scenary Collision Boxes?
+	
+	\textbf{boolean multipleCollisions:}
+	
+	\textbf{int facingSide:} Wich side is this objetct looking?
+	
+	\textbf{boolean render:} Must be rendered? default=true;
+	
+	\textbf{boolean onFloor:} Is this object touching the floor?
+	
+	\textbf{boolean onCeil:} Is this object colliding some tile above it?
+	
+	\textbf{Vector2D position:} The position in the scenary (not screen);
+	
+	\textbf{Action actualAction: } The actual object action;
+	
+	\textbf{Scenary scenaryReference:} The scenary this object is;
+	
+	

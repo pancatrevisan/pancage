@@ -1,0 +1,120 @@
+\chapter{Action}
+	\section{Introduction}
+		The action class represents one movement that the character performs when one event happens. The player constrols the character by keyboard, mouse, etc. and a keyboard hit ou a mouse move can be caracterized as an event.
+		
+		One action have spritesets, wich are activated in the \emph{update()} method. The method updates the action state, character position and etc.
+		
+		%Each Action can have some restrictions to be activated: some conditions may be satistfies before activate such as some other actions must be activated or deactivates see \ref{creatingAction}.
+		
+		Each character implementation have a number of actions.
+		
+		Only one Action can be active. 	
+		
+		Each Action have a set of Spritesets. Each Spriteset have a name used to select it. It is stored in the \textbf{protected HashMap$<$String, Spriteset$>$ spriteset} attribute.
+		
+		Each Action have necessry keys, that referencies one Joypad Button.
+		
+		Te activationkey is the key that activate the action: for example, the SPACE key makes the character jump; if the player press LEFT\_ARROW or RIGHT\_ARROW during the jump then the character will continue jumping but will move left. So, the SPACE is the principal key, called ACTIVATION\_KEY.
+		
+		
+		Each subclass of Ation must implement the methods \textit{update, canActivate \& canDeactivate}.
+		
+		
+	\section{File Format}
+	  The action file is saved with its name. For example, to save the action ``SIMPLE\_WALK", the file will have be named ``SIMPLE\_WALK.act" and with the following format:
+	  \begin{algorithm}[H]
+	      \caption{Action File Format.}
+	      \label{algoEvalCuda}
+	      \begin{algorithmic}
+			\STATE [int]$CLASS\_NAME\_SIZE$
+			\STATE [byte*] $CLASS\_NAME$
+			\STATE [int] $SPRITESET\_NUMBER$
+			\FOR{Each Spriteset}
+			  \STATE [int]$SPRITESET\_NAME\_LENGHT$
+			  \STATE [byte*]$SPRITESET\_NAME$
+			  \STATE [int]$NUMBER\_OF\_LEFT\_SPRITES$
+			  \FOR{Each Left Sprite}
+				  \STATE [image] $Write\_Image()$						
+			      \STATE [double]$DISPLAY\_TIME$			      
+				  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_x$
+				  \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_y$
+				  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_x$
+				  \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_y$	
+				  \STATE [int] $NUMBER\_OF\_ATTACK\_BOXES$
+				  \FOR{Each ATK\_BOX}
+					\STATE [double] $ATK\_BOX\_LowerLeftPoint\_x$
+					\STATE [double] $ATK\_BOX\_LowerLeftPoint\_y$
+					\STATE [double] $ATK\_BOX\_UpperRightPoint\_x$
+					\STATE [double] $ATK\_BOX\_UpperRightPoint\_y$	
+				  \ENDFOR
+				  \STATE [int] $NUMBER\_OF\_VULNERABLE\_BOXES$
+				  \FOR{Each ATK\_BOX}
+					\STATE [double] $VULNERABLE\_BOX\_LowerLeftPoint\_x$
+					\STATE [double] $VULNERABLE\_BOX\_LowerLeftPoint\_y$
+					\STATE [double] $VULNERABLE\_BOX\_UpperRightPoint\_x$
+					\STATE [double] $VULNERABLE\_BOX\_UpperRightPoint\_y$	
+				  \ENDFOR
+				  
+			  \ENDFOR
+			  \STATE [int]$NUMBER\_OF\_RIGHT\_SPRITES$
+			  \STATE ***SAME AS LEFT SPRITES***
+			  % \FOR{Each Sprite}
+				  % \STATE [image] $Write\_Image()$
+			      % \STATE [double]$DISPLAY\_TIME$			      
+				  % \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_x$
+				  % \STATE [double] $ScenaryCollisionBox\_LowerLeftPoint\_y$
+				  % \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_x$
+				  % \STATE [double] $ScenaryCollisionBox\_UpperRightPoint\_y$
+				  % \FOR{Each ATK\_BOX}
+					% \STATE [double] $ATK\_BOX\_LowerLeftPoint\_x$
+					% \STATE [double] $ATK\_BOX\_LowerLeftPoint\_y$
+					% \STATE [double] $ATK\_BOX\_UpperRightPoint\_x$
+					% \STATE [double] $ATK\_BOX\_UpperRightPoint\_y$	
+				  % \ENDFOR
+				  % \STATE [int] $NUMBER\_OF\_VULNERABLE\_BOXES$
+				  % \FOR{Each ATK\_BOX}
+					% \STATE [double] $VULNERABLE\_BOX\_LowerLeftPoint\_x$
+					% \STATE [double] $VULNERABLE\_BOX\_LowerLeftPoint\_y$
+					% \STATE [double] $VULNERABLE\_BOX\_UpperRightPoint\_x$
+					% \STATE [double] $VULNERABLE\_BOX\_UpperRightPoint\_y$	
+				  % \ENDFOR
+			  % \ENDFOR
+			\ENDFOR
+		  \end{algorithmic}
+		 \end{algorithm}
+		 
+		 
+		 
+	\section{Class Members}
+	
+	This section show the necessary attributes in the class Action. These attributes are allocated in superclass Action but must be set in the subclasses.
+	
+	\paragraph{String[] necessarySpritesets:} The name of the necessary spritesets to this action can be used. Use the ``addSpriteset'' to add spritesets.
+	\paragraph{String[] spritesetsDescriptions:} The descriotion of the necessary spritesets.
+	\paragraph{Hashtable$<$String, Boolean$>$ toActivateRestrictions: } The restrictions to activate this action. A hashtable containing ``AnotherActionName, status(actve/inactive)''.
+	\paragraph{ Hashtable$<$String, Boolean$>$ toDeactivateRestrictions: } The restrictions to deactivate this Action.
+	\paragraph{String name: } The name of this Action.
+	\paragraph{boolean canDeactivate():} Return true if can deactivate, else return false. 
+	\paragraph{boolean canActivate(): } Return true if can activate the action.
+	\paragraph{Vector<String> necessaryButtons: } the button names that the action needs. This buttons must exist in the Joypad class.
+	\paragraph{void update(double timeElapsed): }  the most important method. Receives as parameter the elapsed time since the last update. Can use the joypad to verifies if some important key where pressed.
+	\paragraph{Vector<String> activationButtonsNames:} The name of the buttons that can activate the Action.
+	
+	
+	
+	\section{Creating Your Own Action}
+	Each Action have a different behavior. Each one can have it's own attributes. But all must:
+	
+	\begin{itemize}
+	\item {update it's behaviour} For example, for a jump, the action will make the character position increase or decrease. The action have acces to the joypad and its states and the key buffer. If its jumping and the player press LEFT the char will move left.
+	\item{Clear the Input } making a call to \emph{cleanInput()}.
+	\end{itemize}
+	
+	The initialization \textbf{must}:
+	\begin{itemize}
+	\item {Initialize \emph{necessarySpritesets}:} This is a String array and each position contains the name of a \emph{spriteset} that must be created and set. Its used in the visual editor and used to verifie if the action is valid.
+	\item{initialize \emph{spritesetsDescriptions}:} This is a String array containing the description of the necessary spritesets.
+	\item{Set the Action's \emph{name}:} The name is essential, so, it must be initialized.
+	\item{Initialize \emph{activationButtonsNames}:} It is an array with the name of all buttons that can activate the Action. It is a String array with the Button names defined in \emph{Joypad}. If the action need buttons to initialize (for example the action that runs when no key is pressed) the \emph{activationButtonsNames = null}.
+	\item{Initialize \emph{necessaryButtons}:} It is an array of Strings, each position have the name of one Joypad button. Again, if the Action don't need an key the \emph{necessaryButtons = null}.
+	\end{itemize}

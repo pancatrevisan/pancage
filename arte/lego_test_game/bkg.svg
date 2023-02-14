@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="bkg.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#0052af;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#00c6f8;stop-opacity:1;"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3765"
+       x1="458.57144"
+       y1="520.93359"
+       x2="462.85715"
+       y2="865.21936"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3775"
+       x="-0.067473371"
+       width="1.1349467"
+       y="-0.2912644"
+       height="1.5825288">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.824256"
+         id="feGaussianBlur3777" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3785"
+       x="-0.1152363"
+       width="1.2304726"
+       y="-0.30290676"
+       height="1.6058135">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.103063"
+         id="feGaussianBlur3787" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3793"
+       gradientUnits="userSpaceOnUse"
+       x1="455.54099"
+       y1="526.99451"
+       x2="454.77594"
+       y2="867.23969" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="246.34986"
+     inkscape:cy="185.54004"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3793);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="800"
+       height="600"
+       x="34.285713"
+       y="418.07648"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\bkg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.69911505;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3775)"
+       d="m 140.4061,570.62903 c 8.93698,11.50545 -15.51053,30.04723 -8.57143,42.85714 9.77135,18.03836 36.63871,23.52166 57.14286,22.85715 23.20424,-0.75202 41.13641,-15.37879 64.28571,-17.14286 26.28686,-2.00316 47.93761,10.88799 74.28572,10 31.0262,-1.04566 56.68729,-16.84235 87.14285,-22.85714 47.67164,-9.41486 151.42858,-7.14286 151.42858,-7.14286 0,0 110.89345,-12.64564 110,-54.28571 -0.72699,-33.88211 -62.32435,-28.48587 -95.71429,-34.28572 -46.44736,-8.06793 -94.34424,-2.34836 -141.42857,0 -52.57685,2.6223 -157.14286,15.71429 -157.14286,15.71429 0,0 -104.10261,-36.76954 -145.71428,-11.42857 -16.76903,10.21212 -22.85715,54.28571 -22.85715,54.28571 0,0 21.58501,-5.7266 27.14286,1.42857 z"
+       id="path3769"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssscssscscs"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\bkg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.69911505;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3785)"
+       d="m 376.18707,758.27952 c 53.44121,54.9731 230,-1.42857 230,-1.42857 L 741.90136,713.9938 c 0,0 14.51254,-58.72436 -5.71429,-71.42857 -26.80918,-16.83851 -150,30.00001 -150,30.00001 0,0 -67.34235,28.23544 -102.85714,35.71428 -34.59499,7.28513 -82.03409,-19.96857 -105.71429,8.57143 -8.8232,10.63395 -11.06016,31.52089 -1.42857,41.42857 z"
+       id="path3779"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccscass"
+       inkscape:export-filename="C:\Users\panca\Desktop\lego_test_game\bkg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

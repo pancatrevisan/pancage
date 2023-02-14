@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4902"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="lego_blocks.svg">
+  <defs
+     id="defs4904" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67485297"
+     inkscape:cx="315.26782"
+     inkscape:cy="456.49637"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4907">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564000000000;stroke-opacity:1"
+       id="rect5490"
+       width="62.618671"
+       height="62.615952"
+       x="320.68933"
+       y="989.0542"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.71238938;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 382.52726,990.91447 0.0889,60.26783 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.057 0.4447,-53.74999 0.0181,-1.1556 2.40134,-2.85714 2.40134,-2.85714 z"
+       id="path5591"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580"
+       width="126.99496"
+       height="63.030743"
+       x="192.50252"
+       y="988.82892"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.57079646;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 318.8401,991.05984 0.19162,60.26786 -126.26697,-0.089 c 0,0 9.07986,-2.631 14.17869,-2.6786 36.84577,-0.3443 105.76535,-0.8928 105.76535,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75004 0.039,-1.15558 5.1733,-2.85712 5.1733,-2.85712 z"
+       id="path5591-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564000000000;stroke-opacity:1"
+       id="rect5490-3"
+       width="62.618671"
+       height="62.615952"
+       x="128.68935"
+       y="989.05426"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 190.52726,990.91447 0.0889,60.26783 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.057 0.4447,-53.74999 0.0181,-1.1556 2.40134,-2.85714 2.40134,-2.85714 z"
+       id="path5591-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580-0"
+       width="126.99496"
+       height="63.030743"
+       x="0.50252301"
+       y="988.82892"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.30973451;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 126.8401,991.05984 0.19162,60.26786 -126.26697,-0.089 c 0,0 9.07986,-2.631 14.17869,-2.6786 36.845774,-0.3443 105.76535,-0.8928 105.76535,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75004 0.039,-1.15558 5.1733,-2.85712 5.1733,-2.85712 z"
+       id="path5591-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564;stroke-opacity:1"
+       id="rect5490-3-4"
+       width="62.618671"
+       height="62.615952"
+       x="320.68933"
+       y="925.05426"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fc00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23467600000000010;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-1-9"
+       width="16.388657"
+       height="12.267814"
+       x="328.11307"
+       y="912.75385"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fc00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23467600000000010;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-48-2"
+       width="15.86561"
+       height="12.546722"
+       x="359.49561"
+       y="912.57513"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 382.52726,926.91448 0.0889,60.26788 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.05705 0.4447,-53.75004 0.0181,-1.1556 2.40134,-2.85714 2.40134,-2.85714 z"
+       id="path5591-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 330.63111,914.55252 c 4.685,0.10113 11.97809,0.0399 11.97809,0.0399 0,0 0.0203,5.64671 0.0187,8.50987 -2.6e-4,0.50002 1.28393,1.31428 1.28393,1.31428 l -0.0157,-11.01698 -14.71604,-0.0158 c 0,0 0.33167,0.37124 0.76173,0.67764 z"
+       id="path5593-3-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 361.49846,914.41062 c 4.685,0.10113 11.97809,0.0399 11.97809,0.0399 0,0 0.0203,5.64671 0.0187,8.50987 -2.6e-4,0.50002 1.28393,1.31428 1.28393,1.31428 l -0.0157,-11.01698 -14.71604,-0.0158 c 0,0 0.33166,0.37124 0.76172,0.67764 z"
+       id="path5593-3-5-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-4-0-5"
+       width="16.452623"
+       height="12.267814"
+       x="199.94975"
+       y="912.77795"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-4-6-7"
+       width="15.927536"
+       height="12.546722"
+       x="231.45477"
+       y="912.59924"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-4-6-0-9"
+       width="16.452623"
+       height="12.267814"
+       x="263.16403"
+       y="912.77795"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-4-1-7-8"
+       width="15.927536"
+       height="12.546722"
+       x="294.66907"
+       y="912.59924"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580-0-3"
+       width="126.99496"
+       height="63.030743"
+       x="192.50252"
+       y="924.82892"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 318.8401,927.05984 0.19162,60.26782 -126.26697,-0.089 c 0,0 9.07986,-2.631 14.17869,-2.6786 36.84577,-0.3443 105.76535,-0.8928 105.76535,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75 0.039,-1.15558 5.1733,-2.85712 5.1733,-2.85712 z"
+       id="path5591-2-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 296.64826,914.39718 c 4.70328,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0204,5.64671 0.0188,8.50987 -2.7e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.76469,0.67764 z"
+       id="path5593-3-5-7-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 265.6492,914.52345 c 4.70329,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0204,5.64671 0.0188,8.50987 -2.6e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.7647,0.67764 z"
+       id="path5593-3-5-4-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 233.41902,914.39718 c 4.70329,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0204,5.64671 0.0188,8.50987 -2.6e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.7647,0.67764 z"
+       id="path5593-3-5-44-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 202.45153,914.55502 c 4.70329,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0204,5.64671 0.0188,8.50987 -2.6e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.7647,0.67764 z"
+       id="path5593-3-5-442-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564;stroke-opacity:1"
+       id="rect5490-3-4-4"
+       width="62.618671"
+       height="62.615952"
+       x="128.68933"
+       y="925.05426"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23467600000000010;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-1-9-0"
+       width="16.388657"
+       height="12.267814"
+       x="136.11307"
+       y="912.75385"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23467600000000010;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-48-2-2"
+       width="15.86561"
+       height="12.546722"
+       x="167.49561"
+       y="912.57513"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 190.52726,926.91449 0.0889,60.26788 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.05705 0.4447,-53.75004 0.0181,-1.1556 2.40134,-2.85714 2.40134,-2.85714 z"
+       id="path5591-4-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 138.63111,914.55253 c 4.685,0.10113 11.97809,0.0399 11.97809,0.0399 0,0 0.0203,5.64671 0.0187,8.50987 -2.6e-4,0.50002 1.28393,1.31428 1.28393,1.31428 l -0.0157,-11.01698 -14.71604,-0.0158 c 0,0 0.33167,0.37124 0.76173,0.67764 z"
+       id="path5593-3-9-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 169.49846,914.41063 c 4.685,0.10113 11.97809,0.0399 11.97809,0.0399 0,0 0.0203,5.64671 0.0187,8.50987 -2.6e-4,0.50002 1.28393,1.31428 1.28393,1.31428 l -0.0157,-11.01698 -14.71604,-0.0158 c 0,0 0.33166,0.37124 0.76172,0.67764 z"
+       id="path5593-3-5-2-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2370832;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-4-0-5-1"
+       width="16.452623"
+       height="12.267814"
+       x="7.9497485"
+       y="912.77795"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2370832;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-4-6-7-7"
+       width="15.927536"
+       height="12.546722"
+       x="39.454769"
+       y="912.59924"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5492-4-6-0-9-3"
+       width="16.452623"
+       height="12.267814"
+       x="71.16404"
+       y="912.77795"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23708320000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5494-4-1-7-8-0"
+       width="15.927536"
+       height="12.546722"
+       x="102.66906"
+       y="912.59924"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580-0-3-0"
+       width="126.99496"
+       height="63.030743"
+       x="0.50252301"
+       y="924.82892"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 126.8401,927.05984 0.19162,60.26782 -126.26697,-0.089 c 0,0 9.07986,-2.631 14.17869,-2.6786 36.845774,-0.3443 105.76535,-0.8928 105.76535,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75 0.039,-1.15558 5.1733,-2.85712 5.1733,-2.85712 z"
+       id="path5591-2-5-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 104.64826,914.39718 c 4.70328,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0203,5.64671 0.0188,8.50987 -2.7e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33295,0.37124 0.76469,0.67764 z"
+       id="path5593-3-5-7-6-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 73.649201,914.52345 c 4.703285,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.02035,5.64671 0.01882,8.50987 -2.65e-4,0.50002 1.288939,1.31428 1.288939,1.31428 l -0.01579,-11.01698 -14.77348,-0.0158 c 0,0 0.332959,0.37124 0.764698,0.67764 z"
+       id="path5593-3-5-4-7-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 41.41902,914.39718 c 4.703286,0.10113 12.024841,0.0399 12.024841,0.0399 0,0 0.02035,5.64671 0.01882,8.50987 -2.65e-4,0.50002 1.288939,1.31428 1.288939,1.31428 l -0.01579,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.7647,0.67764 z"
+       id="path5593-3-5-44-3-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.51769912;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 10.45153,914.55502 c 4.70329,0.10113 12.02484,0.0399 12.02484,0.0399 0,0 0.0204,5.64671 0.0188,8.50987 -2.6e-4,0.50002 1.28894,1.31428 1.28894,1.31428 l -0.0158,-11.01698 -14.77348,-0.0158 c 0,0 0.33296,0.37124 0.7647,0.67764 z"
+       id="path5593-3-5-442-8-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.51769911999999996;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect6038"
+       height="256"
+       x="0"
+       y="860.36218"
+       width="384"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fc00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564000000000;stroke-opacity:1"
+       id="rect5490-5"
+       width="62.618671"
+       height="62.615952"
+       x="320.68933"
+       y="1053.0542"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.71238942;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 382.52726,1054.9144 0.0889,60.2678 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.057 0.4447,-53.75 0.0181,-1.1556 2.40134,-2.8571 2.40134,-2.8571 z"
+       id="path5591-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fc00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580-08"
+       width="126.99496"
+       height="63.030743"
+       x="192.50252"
+       y="1052.829"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.57079647;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 318.8401,1055.0598 0.19162,60.2678 -126.26697,-0.089 c 0,0 9.07986,-2.631 14.17869,-2.6786 36.84577,-0.3443 105.76535,-0.8928 105.76535,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75 0.039,-1.1556 5.1733,-2.8571 5.1733,-2.8571 z"
+       id="path5591-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.38135564000000000;stroke-opacity:1"
+       id="rect5490-3-1"
+       width="62.618671"
+       height="62.615952"
+       x="128.68935"
+       y="1053.0543"
+       ry="0"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.39380529;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 190.52726,1054.9144 0.0889,60.2678 -58.61052,-0.089 c 0,0 4.21468,-2.631 6.58145,-2.6786 17.10305,-0.3443 49.09409,-0.8928 49.09409,-0.8928 0,0 0.16737,-36.057 0.4447,-53.75 0.0181,-1.1556 2.40134,-2.8571 2.40134,-2.8571 z"
+       id="path5591-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00504053000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5580-0-4"
+       width="126.99496"
+       height="63.030743"
+       x="0.50252026"
+       y="1052.829"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.30973451;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 126.8401,1055.0598 0.19162,60.2678 -126.26697256,-0.089 c 0,0 9.07985996,-2.631 14.17868956,-2.6786 36.845774,-0.3443 105.765353,-0.8928 105.765353,-0.8928 0,0 0.36056,-36.057 0.95802,-53.75 0.039,-1.1556 5.1733,-2.8571 5.1733,-2.8571 z"
+       id="path5591-2-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="C:\Users\panca\Desktop\block_tileset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="778.25049"
+       x="-151.15231"
+       id="image6263"
+       xlink:href="data:image/png;base64,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
+6/h/jpuW3JyX1PYAAAAASUVORK5CYII=
+"
+       height="128"
+       width="73" />
+  </g>
+</svg>
